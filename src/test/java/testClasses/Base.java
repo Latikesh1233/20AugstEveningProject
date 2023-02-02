@@ -14,9 +14,16 @@ public class Base
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\SeleniumLatikesh\\chromedriver_win32\\chromedriver.exe");
 		
+		
+		
 		driver=new ChromeDriver();
 		
+		
+		
 		driver.get("https://neostox.com/");
+		
+		
+		
 	//}
 	}
 
